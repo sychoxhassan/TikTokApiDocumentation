@@ -1337,11 +1337,9 @@ TikSaveAPI.download("https://vm.tiktok.com/ZNRNw695H")
 
 <br>
 
-### ⭐ If you like this project, give it a star! ⭐
-
-<img src="https://img.shields.io/github/stars/sychoxhassan/TikTokApiDocumentation?style=for-the-badge&logo=github&labelColor=0D1117&color=FFD700" alt="Stars">
-<img src="https://img.shields.io/github/forks/sychoxhassan/TikTokApiDocumentation?style=for-the-badge&logo=github&labelColor=0D1117&color=00D4AA" alt="Forks">
-<img src="https://img.shields.io/github/watchers/sychoxhassan/TikTokApiDocumentation?style=for-the-badge&logo=github&labelColor=0D1117&color=00F2EA" alt="Watchers">
+<img src="https://badgen.net/github/stars/sychoxhassan/TikTokApiDocumentation?color=black">
+<img src="https://badgen.net/github/forks/sychoxhassan/TikTokApiDocumentation?color=black">
+<img src="https://badgen.net/github/watchers/sychoxhassan/TikTokApiDocumentation?color=black">
 
 <br><br>
 
