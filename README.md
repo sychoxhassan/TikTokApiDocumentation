@@ -1336,13 +1336,6 @@ TikSaveAPI.download("https://vm.tiktok.com/ZNRNw695H")
 ---
 
 <br>
-
-<img src="https://badgen.net/github/stars/sychoxhassan/TikTokApiDocumentation?color=black">
-<img src="https://badgen.net/github/forks/sychoxhassan/TikTokApiDocumentation?color=black">
-<img src="https://badgen.net/github/watchers/sychoxhassan/TikTokApiDocumentation?color=black">
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
 
 <br>
